@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/culinary/static/css/main.ad78fcc5.chunk.css",
+    "main.js": "/culinary/static/js/main.d043d02d.chunk.js",
+    "main.js.map": "/culinary/static/js/main.d043d02d.chunk.js.map",
+    "runtime-main.js": "/culinary/static/js/runtime-main.c79d2d26.js",
+    "runtime-main.js.map": "/culinary/static/js/runtime-main.c79d2d26.js.map",
+    "static/js/2.e8dbd55f.chunk.js": "/culinary/static/js/2.e8dbd55f.chunk.js",
+    "static/js/2.e8dbd55f.chunk.js.map": "/culinary/static/js/2.e8dbd55f.chunk.js.map",
+    "index.html": "/culinary/index.html",
+    "precache-manifest.02be78c3c954d6b7e81d398d2ef9eac0.js": "/culinary/precache-manifest.02be78c3c954d6b7e81d398d2ef9eac0.js",
+    "service-worker.js": "/culinary/service-worker.js",
+    "static/css/main.ad78fcc5.chunk.css.map": "/culinary/static/css/main.ad78fcc5.chunk.css.map",
+    "static/js/2.e8dbd55f.chunk.js.LICENSE.txt": "/culinary/static/js/2.e8dbd55f.chunk.js.LICENSE.txt",
+    "static/media/utensils-solid.svg": "/culinary/static/media/utensils-solid.4dd1c615.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c79d2d26.js",
+    "static/js/2.e8dbd55f.chunk.js",
+    "static/css/main.ad78fcc5.chunk.css",
+    "static/js/main.d043d02d.chunk.js"
+  ]
+}
