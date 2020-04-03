@@ -1,0 +1,21 @@
+button{
+    margin-left: 15px;
+    background-color: goldenrod;
+    width: 100px;
+    height: 40px;
+    color: white;
+    border: 1px solid goldenrod;
+    border-radius: 7px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    transition-duration: 0.4s;
+}
+#getRandomRecipts{
+    background-color: white;
+    color:goldenrod;
+    width: 120px;
+    height: 60px;
+    font-weight: bold;
+    font-size: 23px;
+    margin-bottom: 30px;
+}

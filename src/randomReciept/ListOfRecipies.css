@@ -1,0 +1,18 @@
+.ReceiptItem{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 70%;
+    margin: 0 auto;
+    border: 2px solid goldenrod;
+    padding: 0 15px;
+    margin-bottom: 30px;
+}
+.ReceiptItem img{
+    width: 556px;
+    align-self: center;
+    margin-top: 15px;;
+}
+.ReceiptItem h2{
+    align-self: center;
+}

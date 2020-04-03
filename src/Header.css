@@ -1,0 +1,17 @@
+.headerLogo{
+    background-color: goldenrod;
+    color:white;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: center;
+    height: 70px;
+}
+.headerLogo img {
+    width: 45px;
+    height: 45px;
+    padding-left: 50px;
+}
+.headerLogo span{
+    font-size: 25px;
+}

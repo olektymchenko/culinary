@@ -1,0 +1,13 @@
+.IngridOption{
+    display: flex;
+    align-content: center;
+}
+.IngridOption textarea{
+    margin-left: 50px;
+    width: 300px;
+    height: 200px;
+    margin-bottom: 30px;
+}
+.IngridOption button{
+    align-self: center;
+}

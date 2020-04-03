@@ -1,0 +1,12 @@
+.buttons{
+    display: flex;
+    align-content: center;
+}
+.buttons input{
+    font-weight: bold;
+    color: white;
+    height: 20px;
+    margin-left: 20px;
+    background-color: goldenrod;
+    align-self: center;
+}
